@@ -33,6 +33,7 @@ An interactive birthday greeting featuring a **3x3 sliding puzzle game** with co
 | Canvas-Confetti | Celebration animation library |
 
 ## 📂 Project Structure
+```
 HAPPY_BIRTHDAY/
 ├── index.html # Landing page with start button
 ├── page1.html # Main puzzle game page
@@ -54,7 +55,7 @@ HAPPY_BIRTHDAY/
 │ ├── 8.jpg # Puzzle piece 8
 │ └── 9.jpg # Puzzle piece 9
 └── README.md
-
+```
 text
 
 ## 🚀 How to Run
