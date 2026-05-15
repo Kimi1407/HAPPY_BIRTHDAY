@@ -24,11 +24,12 @@ An interactive birthday greeting featuring a **3x3 sliding puzzle game** with co
 - **Mobile:** Tap and swipe to move tiles
 
 ## 🛠️ Technologies Used
-
-- **HTML5** - Page structure
-- **CSS3** - Styling, animations, responsive design, grid layout
-- **JavaScript** - Game logic, drag & drop, touch events
-- **Canvas-Confetti** - Celebration animation library
+|---|---|
+|Technology | Purpose |
+| HTML5 | Page structure |
+| CSS3 | Styling, animations, responsive design, grid layout |
+| JavaScript | Game logic, drag & drop, touch events |
+| Canvas-Confetti | Celebration animation library |
 
 ## 📂 Project Structure
 HAPPY_BIRTHDAY/
