@@ -3,7 +3,7 @@
 An interactive birthday greeting featuring a **3x3 sliding puzzle game** with confetti celebration! Solve the puzzle by rearranging the photo pieces to reveal the complete birthday image.
 
 Live Demo (GitHub Pages):
-Once deployed, visit: https://Kimi1407.github.io/HAPPY_BIRTHDAY/
+https://Kimi1407.github.io/HAPPY_BIRTHDAY/
 
 ## ✨ Features
 
