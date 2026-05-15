@@ -2,6 +2,9 @@
 
 An interactive birthday greeting featuring a **3x3 sliding puzzle game** with confetti celebration! Solve the puzzle by rearranging the photo pieces to reveal the complete birthday image.
 
+Live Demo (GitHub Pages):
+Once deployed, visit: https://Kimi1407.github.io/HAPPY_BIRTHDAY/
+
 ## ✨ Features
 
 - **Interactive Sliding Puzzle** - 3x3 grid puzzle that requires strategic thinking
@@ -56,7 +59,6 @@ HAPPY_BIRTHDAY/
 │ └── 9.jpg # Puzzle piece 9
 └── README.md
 ```
-text
 
 ## 🚀 How to Run
 
@@ -71,9 +73,6 @@ Navigate to the project folder
 Open index.html in any modern web browser
 
 Or use VS Code with Live Server extension for best experience
-
-Live Demo (GitHub Pages):
-Once deployed, visit: https://Kimi1407.github.io/HAPPY_BIRTHDAY/
 
 📱 Responsive Design
 Desktop: Full layout with fixed button positioning
