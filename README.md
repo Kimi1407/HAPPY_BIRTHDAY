@@ -24,8 +24,9 @@ An interactive birthday greeting featuring a **3x3 sliding puzzle game** with co
 - **Mobile:** Tap and swipe to move tiles
 
 ## 🛠️ Technologies Used
-|---|---|
-|Technology | Purpose |
+
+| Technology | Purpose |
+| ---- | ---- |
 | HTML5 | Page structure |
 | CSS3 | Styling, animations, responsive design, grid layout |
 | JavaScript | Game logic, drag & drop, touch events |
