@@ -2,30 +2,33 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   margin: 0;
-  padding: 0;
+  padding: -50px;
 }
 
 #banner-container {
   position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
+  display: inline-block;
+  height: 200px;
+  margin-top: -80px;
 }
 
 #banner {
-  max-width: 90vw;
-  height: auto;
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
 }
-
+#game-area {
+  position: relative;
+  margin-top: -75px;
+}
 #ref {
   position: absolute;
-  bottom: 100px;
-  right: 100px;
+  top: 0px;
+  right: 200px;
   max-width: 120px;
   height: auto;
   border: 2px solid rgba(240, 117, 213, 0.959);
-  margin: 10px;
+  border-radius: 5px;
 }
 
 #board {
@@ -34,6 +37,7 @@ body {
   aspect-ratio: 1 / 1;
   margin: 0 auto;
   border: 10px solid rgba(240, 117, 213, 0.959);
+  border-radius: 8px;
   background-color: rgb(240, 117, 213, 0.959);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
